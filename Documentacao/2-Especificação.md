@@ -2,53 +2,44 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Definimos os problemas e os pontos mais relevantes a serem tratados neste projeto, através de uma pesquisa com participação de usuários que teriam interesse na questão levantada pelos membros do grupo, através de perguntas e pesquisas. Levantamos estes dados em forma de personas e histórias dos potenciais usuários, e apresentamos requisitos e restrições em forma de prioridades.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Júlia tem 15 anos, é estudante. Pensa em estudar bastante pois tem medo de não ser bem sucedida,
+mas tem muita dificuldade para escolher o caminho que quer seguir, é solteira e sonha em encontrar
+um grande amor, é altamente influenciada pelas redes sociais e gosta muito de sair para festas
+e assistir as séries do momento.
 
+Cecília tem 37 anos, é engenheira civil. Bem sucedida e viciada em trabalho, possui um filho e 
+vários hobbies, gosta muito de viajar, frequentar bons restaurantes com as amigas, mas como 
+trabalha muito, gosta de chegar em casa e assistir alguma série para relaxar e distrair a mente.
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+Nicolas tem 23 anos, é estudante em uma universidade. Correndo sempre atrás de estabilidade financeira, tem medo de se formar e não conseguir um bom emprego,
+tem uma boa relação com a familia e os amigos, gosta de comprar roupas de marca e jogos de computador, principalmente de ação. Nas horas vagas costuma jogar
+jogos online e ver alguma série ou filme com os amigos.
+
+Paulo tem 68 anos, já está aposentado. Ainda é casado, e foi apresentado ao mundo virtual através de sua família, no qual compreendeu as grandes vantagens
+de poder se ver o filme favorito a hora que quiser, mas ainda não está acostumado com a tecnologia, e possui outros hobbies como cuidar de suas plantas, 
+assistir TV aberta entre outros, gostaria de assistir o filme que quiser, a hora que quiser, com a sua família.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...  PERSONA | QUERO/PRECISO ... FUNCIONALIDADE   |PARA ... MOTIVO/VALOR                   |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Júlia               | Registrar o que já assisti         | Me organizar melhor                    |
+|Júlia               | Recomendações                      | Saber o que assistir depois            |
+|Cecília             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Cecília             | Alterar permissões de acesso       | Controlar quem usa minha conta         |
+|Nicolas             | Organização                        | Lembrar o que já assistiu              |
+|Nicolas             | Recomendações                      | Receber e recomendar aos amigos        |
+|Paulo               | Acesso facilitado                  | Conseguir ver o filme sem dificuldades |
+|Paulo               | Disponibilidade de plataforma      | Poder ver na TV ou no Notebook         |
+|Administrador       | Controle de acesso                 | Permitir que possam administrar contas |
+|Administrador       | Acesso ao fluxo de usuários        | Saber o que está dando certo e errado  |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -58,34 +49,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário escolha o filme/série. | ALTA | 
+|RF-002| O site deve apresentar na página principal as opções disponíveis.  | ALTA |
+|RF-003| O site deve apresentar, para cada filme ou série, uma imagem correspondente. | ALTA |
+|RF-004| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa.      | ALTA | 
+|RF-005| O site deve permitir salvar os filmes preferidos        | MÉDIA |
+|RF-006| O site deve oferecer recomendações de acordo com o gosto do usuário      | BAIXA | 
+|RF-007| O site deve permitir avaliação do usuário em relação ao que assistiu        | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser responsivo para rodar em dispositivos móveis | ALTA | 
+|RNF-002| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)  | ALTA |
+|RNF-003| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA | 
+|RNF-004| O site deve ser seguro para o usuário em relação a suas informações pessoais | ALTA | 
+|RNF-005| Deve processar requisições do usuário em no máximo 3s | MÉDIA | 
+|RNF-006| O site deve ter o máximo de idiomas em dublagem e legenda disponíveis | MÉDIA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 
 ## Restrições
 
@@ -93,13 +77,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deverá ser entregue até o final do semestre. |
+|02| Não pode ser desenvolvido um módulo de backend.        |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho. |
+|04| Limitações técnicas dos desenvolvedores                |
