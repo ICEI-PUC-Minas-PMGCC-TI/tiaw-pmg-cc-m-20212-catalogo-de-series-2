@@ -10,7 +10,7 @@ Os artefatos escolhidos são divididos de acordo com suas funções e objetivos 
 |----------------|---------------|---------------|
 | Repositório de Código Fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-catalogo-de-series-2/tree/master/Codigo | 
 | Documentos do Projeto   | GitHub  |  https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-catalogo-de-series-2/tree/master/Documentacao | 
-| Projeto de Interface e  Wireframes   | Figma  | inserir link | 
+| Projeto de Interface e  Wireframes   | Figma  | https://www.figma.com/file/e9ZKNfpg3opaUlHyBEUy7Y/Untitled?node-id=1%3A2 | 
 | Gerenciamento do Projeto   | Trello  | https://trello.com/invite/b/k44sWEVJ/d25975769e45402641b3ffff35211f0e/gerenciamento-de-projeto | 
 
 ## Divisão de Papéis
