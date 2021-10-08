@@ -9,7 +9,7 @@ Os artefatos escolhidos são divididos de acordo com suas funções e objetivos 
 | Ambiente       | Plataforma    | Link de Acesso| 
 |----------------|---------------|---------------|
 | Repositório de Código Fonte | GitHub | inserir link | 
-| Documentos do Projeto   | GitHub  |  inserir link | 
+| Documentos do Projeto   | GitHub  |  https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-catalogo-de-series-2/tree/master/Documentacao | 
 | Projeto de Interface e  Wireframes   | Figma  | inserir link | 
 | Gerenciamento do Projeto   | Trello  | https://trello.com/invite/b/k44sWEVJ/d25975769e45402641b3ffff35211f0e/gerenciamento-de-projeto | 
 
