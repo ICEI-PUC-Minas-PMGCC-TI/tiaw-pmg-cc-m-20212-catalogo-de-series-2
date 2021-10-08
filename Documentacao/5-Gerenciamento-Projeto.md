@@ -17,7 +17,7 @@ Os artefatos escolhidos são divididos de acordo com suas funções e objetivos 
 
 * Phillipe Raul Batista Cobra
 * Matheus Kayky Ferreira Santos
-* 
+* Davi Montalvão Ferreira
 
 ## Processo
 
