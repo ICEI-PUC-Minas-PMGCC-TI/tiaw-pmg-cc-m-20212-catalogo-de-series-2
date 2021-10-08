@@ -10,8 +10,8 @@ Os artefatos escolhidos são divididos de acordo com suas funções e objetivos 
 |----------------|---------------|---------------|
 | Repositório de Código Fonte | GitHub | inserir link | 
 | Documentos do Projeto   | GitHub  |  inserir link | 
-| Projeto de Interface e  Wireframes   | acolocar  | inserir link | 
-| Gerenciamento do Projeto   | Trello  | inserir link | 
+| Projeto de Interface e  Wireframes   | Figma  | inserir link | 
+| Gerenciamento do Projeto   | Trello  | https://trello.com/invite/b/k44sWEVJ/d25975769e45402641b3ffff35211f0e/gerenciamento-de-projeto | 
 
 ## Divisão de Papéis
 
