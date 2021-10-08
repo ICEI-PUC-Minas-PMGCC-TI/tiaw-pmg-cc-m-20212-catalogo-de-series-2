@@ -15,37 +15,28 @@ Os artefatos escolhidos são divididos de acordo com suas funções e objetivos 
 
 ## Divisão de Papéis
 
-* Phillipe Raul Batista Cobra
-* Matheus Kayky Ferreira Santos
-* Davi Montalvão Ferreira
+* Phillipe Raul Batista Cobra (Desenvolvedor Front-End)
+* Matheus Kayky Ferreira Santos (Desenvolvedor Front-End)
+* Davi Montalvão Ferreira (Desenvolvedor Front-End)
 
 ## Processo
 
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
+> Utilizaremos o Trello para organização, e o próprio GitHub como repositório para verificar e editar os documentos e 
+> todas as etapas do trabalho.
 
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+* Visual Studio Code
+* Discord
+* Trello
+* Figma
+* Miro
+* Google softwares
+* Adobe Xd
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
+1. O editor de código foi escolhido porque ele oferece o que precisamos de forma interativa.
+2. A ferramenta de comunicação foi escolhida porque temos fácil acesso e utilizamos a plataforma no nosso dia-a-dia.
+3. Os editores escolhidos foram os que tivemos mais facilidade de aprendizado e de utilização.
+4. As variadas plataformas do Google nos auxiliam em variadas tarefas, inclusive armazenamento.
