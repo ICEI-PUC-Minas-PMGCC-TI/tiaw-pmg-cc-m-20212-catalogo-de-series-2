@@ -1,7 +1,5 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
 > Definimos os problemas e os pontos mais relevantes a serem tratados neste projeto, através de uma pesquisa com participação de usuários que teriam interesse na questão levantada pelos membros do grupo, através de perguntas e pesquisas. Levantamos estes dados em forma de personas e histórias dos potenciais usuários, e apresentamos requisitos e restrições em forma de prioridades.
 
 ## Personas
