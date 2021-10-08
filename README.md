@@ -9,8 +9,7 @@ para que tenham mais tranquilidade na hora de usufruir do seu tempo livre para a
 
 * Phillipe Raul Batista Cobra
 * Matheus Kayky Ferreira Santos
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Davi Montalvão Ferreira
 
 ## Professores responsáveis
 
