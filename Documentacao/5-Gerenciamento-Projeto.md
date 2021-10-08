@@ -1,16 +1,23 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+Nós escolhemos como metodologia o Scrum, pois vimos que é uma metodologia eficaz e atende perfeitamente os nossos objetivos.
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos escolhidos são divididos de acordo com suas funções e objetivos que segue:
+
+| Ambiente       | Plataforma    | Link de Acesso| 
+|----------------|---------------|---------------|
+| Repositório de Código Fonte | GitHub | inserir link | 
+| Documentos do Projeto   | GitHub  |  inserir link | 
+| Projeto de Interface e  Wireframes   | acolocar  | inserir link | 
+| Gerenciamento do Projeto   | Trello  | inserir link | 
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+* Phillipe Raul Batista Cobra
+* Matheus Kayky Ferreira Santos
+* 
 
 ## Processo
 
@@ -18,12 +25,6 @@
 > pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
 > o andamento do projeto, a execução das tarefas e o status de desenvolvimento
 > da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Ferramentas
 
